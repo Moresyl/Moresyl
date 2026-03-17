@@ -24,6 +24,7 @@
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" height="40" alt="TypeScript" />&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" />&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="40" height="40" alt="C#" />&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
 
