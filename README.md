@@ -6,10 +6,10 @@
  ██╔████╔██║ ██║   ██║ ██████╔╝ █████╗   ███████╗ ██║
  ██║╚██╔╝██║ ██║   ██║ ██╔══██╗ ██╔══╝   ╚════██║ ██║
  ██║ ╚═╝ ██║ ╚██████╔╝ ██║  ██║ ███████╗ ███████║ ███████╗
- ╚═╝     ╚═╝  ╚═════╝  ╚═╝  ╚═╝ ╚══════╝ ╚══════╝ ╚══════╝
+ ╚═╝     ╚═╝  ╚═════╝  ╚═╝  ╚═╝ ╚══════╝ ╚══════╝  ╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Rust+%7C+TypeScript+%7C+Python;Building+Tools+for+Developers;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Rust+%7C+TypeScript+%7C+Python+%7C+C%23;Building+Tools+for+Developers;Open+Source+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
