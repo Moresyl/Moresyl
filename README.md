@@ -19,56 +19,29 @@
 
 </div>
 
-<br/>
-
-<table align="center">
-<tr><td align="center" width="100">
-
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
-<br/><sub><b>TypeScript</b></sub>
-
-</td><td align="center" width="100">
-
-<img src="https://techstack-generator.vercel.app/rust-icon.svg" width="48" height="48" alt="Rust" />
-<br/><sub><b>Rust</b></sub>
-
-</td><td align="center" width="100">
-
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-<br/><sub><b>Python</b></sub>
-
-</td><td align="center" width="100">
-
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
-<br/><sub><b>React</b></sub>
-
-</td><td align="center" width="100">
-
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
-<br/><sub><b>Docker</b></sub>
-
-</td></tr>
-</table>
-
-<br/>
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Moresl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&hide_title=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moresl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6&hide_title=true" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" height="40" alt="TypeScript" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moresl&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF" width="95%" />
+<img height="130" src="https://github-readme-stats.vercel.app/api?username=Moresl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&hide_title=true" />
+&nbsp;
+<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moresl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6&hide_title=true" />
 
 </div>
 
-<br/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moresl&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF&height=250" width="90%" />
+
+</div>
 
 <div align="center">
 
