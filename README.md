@@ -1,75 +1,81 @@
 <div align="center">
 
-# Hey, I'm Mores 👋
+```
+ ███╗   ███╗  ██████╗  ██████╗  ███████╗ ███████╗
+ ████╗ ████║ ██╔═══██╗ ██╔══██╗ ██╔════╝ ██╔════╝
+ ██╔████╔██║ ██║   ██║ ██████╔╝ █████╗   ███████╗
+ ██║╚██╔╝██║ ██║   ██║ ██╔══██╗ ██╔══╝   ╚════██║
+ ██║ ╚═╝ ██║ ╚██████╔╝ ██║  ██║ ███████╗ ███████║
+ ╚═╝     ╚═╝  ╚═════╝  ╚═╝  ╚═╝ ╚══════╝ ╚══════╝
+```
 
-**Full-Stack Developer & Open Source Enthusiast**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Rust+%7C+TypeScript+%7C+Python;Building+Tools+for+Developers;Open+Source+Enthusiast" alt="Typing SVG" />
 
-[![Blog](https://img.shields.io/badge/Blog-biekanle.com-blue?style=flat-square&logo=safari&logoColor=white)](https://blog.biekanle.com/)
-[![Email](https://img.shields.io/badge/Email-xd@biekanle.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:xd@biekanle.com)
+<br/>
+
+[![Blog](https://img.shields.io/badge/blog.biekanle.com-0A0A0A?style=for-the-badge&logo=safari&logoColor=58A6FF)](https://blog.biekanle.com/)
+&nbsp;
+[![Email](https://img.shields.io/badge/xd@biekanle.com-0A0A0A?style=for-the-badge&logo=maildotru&logoColor=58A6FF)](mailto:xd@biekanle.com)
 
 </div>
 
----
+<br/>
 
-### 🛠 Tech Stack
+<table align="center">
+<tr><td align="center" width="100">
+
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
+<br/><sub><b>TypeScript</b></sub>
+
+</td><td align="center" width="100">
+
+<img src="https://techstack-generator.vercel.app/rust-icon.svg" width="48" height="48" alt="Rust" />
+<br/><sub><b>Rust</b></sub>
+
+</td><td align="center" width="100">
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+<br/><sub><b>Python</b></sub>
+
+</td><td align="center" width="100">
+
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+<br/><sub><b>React</b></sub>
+
+</td><td align="center" width="100">
+
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+<br/><sub><b>Docker</b></sub>
+
+</td></tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Moresl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&hide_title=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moresl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6&hide_title=true" />
 
 </div>
 
----
-
-### 🔥 Featured Projects
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/Moresl/cchub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moresl&repo=cchub&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Moresl/ImageMinify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moresl&repo=ImageMinify&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Moresl/snapimg">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moresl&repo=snapimg&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Moresl/FrpsManager-GUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moresl&repo=FrpsManager-GUI&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moresl&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF" width="95%" />
 
 </div>
 
----
-
-### 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Moresl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moresl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img src="https://komarev.com/ghpvc/?username=Moresl&color=58A6FF&style=flat-square&label=VISITORS" />
+
+```
+> Building tools that make developers' lives easier_
+```
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Moresl&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Moresl&color=blueviolet&style=flat-square&label=Profile+Views" />
-
-*Building tools that make developers' lives easier.*
-
-</div>
-
