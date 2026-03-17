@@ -1,13 +1,6 @@
 <div align="center">
 
-```
- ███╗   ███╗  ██████╗  ██████╗  ███████╗ ███████╗ ██╗
- ████╗ ████║ ██╔═══██╗ ██╔══██╗ ██╔════╝ ██╔════╝ ██║
- ██╔████╔██║ ██║   ██║ ██████╔╝ █████╗   ███████╗ ██║
- ██║╚██╔╝██║ ██║   ██║ ██╔══██╗ ██╔══╝   ╚════██║ ██║
- ██║ ╚═╝ ██║ ╚██████╔╝ ██║  ██║ ███████╗ ███████║ ███████╗
- ╚═╝     ╚═╝  ╚═════╝  ╚═╝  ╚═╝ ╚══════╝ ╚══════╝  ╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=180&section=header&text=Moresl&fontSize=80&fontColor=58A6FF&animation=fadeIn&fontAlignY=55" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Rust+%7C+TypeScript+%7C+Python+%7C+C%23;Building+Tools+for+Developers;Open+Source+Enthusiast" alt="Typing SVG" />
 
