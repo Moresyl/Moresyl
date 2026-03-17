@@ -1,11 +1,12 @@
 <div align="center">
 
 ```
- __  __  ___  ____  _____ ____  _
-|  \/  |/ _ \|  _ \| ____/ ___|| |
-| |\/| | | | | |_) |  _| \___ \| |
-| |  | | |_| |  _ <| |___ ___) | |___
-|_|  |_|\___/|_| \_\_____|____/|_____|
+ ███╗   ███╗  ██████╗  ██████╗  ███████╗ ███████╗ ██╗
+ ████╗ ████║ ██╔═══██╗ ██╔══██╗ ██╔════╝ ██╔════╝ ██║
+ ██╔████╔██║ ██║   ██║ ██████╔╝ █████╗   ███████╗ ██║
+ ██║╚██╔╝██║ ██║   ██║ ██╔══██╗ ██╔══╝   ╚════██║ ██║
+ ██║ ╚═╝ ██║ ╚██████╔╝ ██║  ██║ ███████╗ ███████║ ███████╗
+ ╚═╝     ╚═╝  ╚═════╝  ╚═╝  ╚═╝ ╚══════╝ ╚══════╝ ╚══════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Rust+%7C+TypeScript+%7C+Python;Building+Tools+for+Developers;Open+Source+Enthusiast" alt="Typing SVG" />
