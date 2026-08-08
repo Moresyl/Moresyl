@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=180&section=header&text=Moresl&fontSize=80&fontColor=58A6FF&animation=fadeIn&fontAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=180&section=header&text=Moresyl&fontSize=80&fontColor=58A6FF&animation=fadeIn&fontAlignY=55" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Rust+%7C+TypeScript+%7C+Python+%7C+C%23;Building+Tools+for+Developers;Open+Source+Enthusiast" alt="Typing SVG" />
 
@@ -25,21 +25,21 @@
 
 <div align="center">
 
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=Moresl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&hide_title=true" />
+<img height="130" src="https://github-readme-stats.vercel.app/api?username=Moresyl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&hide_title=true" />
 &nbsp;
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moresl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6&hide_title=true" />
+<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moresyl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6&hide_title=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moresl&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF&height=250" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moresyl&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF&height=250" width="90%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Moresl&color=58A6FF&style=flat-square&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=Moresyl&color=58A6FF&style=flat-square&label=VISITORS" />
 
 ```
 > Building tools that make developers' lives easier_
