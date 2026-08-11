@@ -25,9 +25,9 @@
 
 <div align="center">
 
-<img height="130" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moresyl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&hide_title=true" />
+<img height="130" src="./profile/stats.svg" />
 &nbsp;
-<img height="130" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moresyl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6&hide_title=true" />
+<img height="130" src="./profile/top-langs.svg" />
 
 </div>
 
