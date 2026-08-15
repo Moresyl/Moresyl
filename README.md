@@ -37,6 +37,7 @@
 
 | Project | What it does | Get started |
 | --- | --- | --- |
+| [**MetaClean**](https://github.com/Moresyl/metaclean) | Offline desktop privacy cleaner for image, Office, PDF, and text metadata, built with Rust and Tauri. | [Download](https://github.com/Moresyl/metaclean/releases/latest) · [Repository](https://github.com/Moresyl/metaclean) |
 | [**CCHub**](https://github.com/Moresyl/cchub) | Desktop hub for managing MCP servers, skills, plugins, hooks, workflows, profiles, health checks, and security audits. | [Repository](https://github.com/Moresyl/cchub) |
 | [**Optik Sol**](https://github.com/Moresyl/optik-sol) | Mobile-first in-page developer console for debugging real devices and WebViews. | `npm i optik-sol` · [npm](https://www.npmjs.com/package/optik-sol) |
 | [**Adaptive Matrix**](https://github.com/Moresyl/postcss-adaptive-matrix) | Accessible, container-aware responsive CSS compiler with independent mobile and desktop design canvases. | `npm i -D postcss-adaptive-matrix` · [Playground](https://moresyl.github.io/postcss-adaptive-matrix/docs/playground) |
