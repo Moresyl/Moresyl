@@ -43,7 +43,7 @@
 | [**Adaptive Matrix**](https://github.com/Moresyl/postcss-adaptive-matrix) | Accessible, container-aware responsive CSS compiler with independent mobile and desktop design canvases. | `npm i -D postcss-adaptive-matrix` · [Playground](https://moresyl.github.io/postcss-adaptive-matrix/docs/playground) |
 | [**SnapImg**](https://github.com/Moresyl/snapimg) | Privacy-first, self-hosted lossless image compressor for PNG, JPEG, WebP, and AVIF. | [Live demo](https://img.9nn.cn/) · [Repository](https://github.com/Moresyl/snapimg) |
 | [**ImageMinify**](https://github.com/Moresyl/ImageMinify) | Fast Windows image compression and batch conversion tool built with C# and WPF. | [Repository](https://github.com/Moresyl/ImageMinify) |
-| [**hands-off**](https://github.com/Moresyl/hands-off) | Keeps coding-agent diffs inside the scope you actually requested. | `npx skills add Moresyl/hands-off` |
+
 
 
 
